@@ -26,8 +26,8 @@
 
 <!-- Row 1: GitHub Stats & Streak -->
 <div align="center" style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap; margin-bottom: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=ArmandoDevJr&show_icons=true&theme=default" height="180" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArmandoDevJr&theme=default" height="180" alt="Streak Stats" />
+
+
 </div>
 
 <!-- Row 2: Summary & Most Used Languages -->
