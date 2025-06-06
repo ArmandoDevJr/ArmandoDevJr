@@ -3,7 +3,7 @@
 
 - 📫 How to reach me **armandomabju@gmail.com**
 
-<div> 
+<div align="center"> 
   <a href="https://github.com/ArmandoDevJr" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
   </a>
@@ -22,10 +22,20 @@
   <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Mobile/header_logo.svg" alt="React Native" width="40" height="40"/>
 </p>
 
-<h3 align="center">GitHub Stats</h3>
-<div align="center" style="display: flex; flex-wrap: nowrap; justify-content: center; gap: 10px; overflow-x: auto;">
-  <img src="https://github-readme-stats.vercel.app/api?username=ArmandoDevJr&show_icons=true&locale=en&theme=default" height="180em" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArmandoDevJr&theme=default" height="180em" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ArmandoDevJr&theme=2077" height="180em" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ArmandoDevJr&theme=2077" height="180em" />
+<h3 align="center">📊 GitHub Stats</h3>
+
+<!-- Row 1: GitHub Stats & Streak -->
+<div align="center" style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap; margin-bottom: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=ArmandoDevJr&show_icons=true&theme=default" height="180" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArmandoDevJr&theme=default" height="180" alt="Streak Stats" />
 </div>
+
+<!-- Row 2: Summary & Most Used Languages -->
+<div align="center" style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ArmandoDevJr&theme=2077" height="180" alt="Summary Card" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ArmandoDevJr&theme=2077" height="180" alt="Most Used Languages" />
+</div>
+
+<!-- Cool animation -->
+<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
