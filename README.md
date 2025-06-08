@@ -1,16 +1,15 @@
 <h1 align="center">Hi 👋, I'm Armando Mabunda Júnior</h1>
-<h3 align="center">Mobile Developer</h3>
+<h3 align="center">A passionate Android developer</h3>
 
-- 📫 How to reach me **armandomabju@gmail.com**
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=armandodevjr&label=Profile%20views&color=0e75b6&style=flat" alt="armandodevjr" /> </p>
 
-<div align="center"> 
-  <a href="https://github.com/ArmandoDevJr" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-  <a href="mailto:armandomabju@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-</div>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/armando-mabundajr/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/armando-mabundajr/" height="30" width="40" /></a>
+<a href="https://instagram.com/armandomabundajunior" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="armandomabundajunior" height="30" width="40" /></a>
+</p>
+
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
