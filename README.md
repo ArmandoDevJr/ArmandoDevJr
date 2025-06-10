@@ -35,6 +35,5 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ArmandoDevJr&theme=2077" height="180" alt="Most Used Languages" />
 </div>
 
-<!-- Cool animation -->
-<br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=armandodevjr&show_icons=true&locale=en&layout=compact" alt="armandodevjr" /></p>
+
